@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Léo 👋
+#### Full-Stack Developer based in France 🇫🇷
 
-<!--
-**Sozokujin/Sozokujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My projects
+💻 [Léo Corre](https://www.leo-corre.fr/)
 
-Here are some ideas to get you started:
+Visit my personal website for more information and to get in touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+🌐 [Linkedin](https://fr.linkedin.com/in/lcorre)
+
+📩 [Mail](mailto:lcorre.pro@gmail.com)
+
