@@ -2,9 +2,12 @@
 #### Full-Stack Developer based in France 🇫🇷
 
 ### My projects
-💻 [Léo Corre](https://www.leo-corre.fr/)
+💻 [Léo Corre · Portfolio](https://www.leo-corre.fr/)
 
-Visit my personal website for more information and to get in touch.
+Visit my personal website for more information.
 
-### Contact me
-🌐 [Linkedin](https://fr.linkedin.com/in/lcorre)
+### Get in touch
+👨‍💻 [LinkedIn](https://fr.linkedin.com/in/lcorre)
+
+🌐 [X](https://x.com/Sozokujin_)
+
