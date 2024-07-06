@@ -2,7 +2,7 @@
 #### Full-Stack Developer based in France 🇫🇷
 
 ### My projects
-💻 [Léo Corre · Portfolio](https://www.leo-corre.fr/)
+💻 [Portfolio](https://www.leo-corre.com/)
 
 Visit my personal website for more information.
 
