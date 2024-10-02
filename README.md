@@ -12,4 +12,4 @@
 *Final project of my Master’s Degree in IT and Information Systems, developed in collaboration with three other students.*
 
 ### Get in touch
-🍱 [All my links 🚀](https://bento.me/sozokujin)
+[All my links 🚀](https://bento.me/sozokujin)
