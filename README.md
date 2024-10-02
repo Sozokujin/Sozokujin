@@ -1,6 +1,6 @@
 ### Hi, I'm Léo 👋
 
-#### Full-Stack Developer based in France 🇫🇷
+#### Full Stack Developer - Drupal / Next.js / Tailwind CSS
 
 ### My projects
 💻 [Portfolio](https://leo-corre.com/)
