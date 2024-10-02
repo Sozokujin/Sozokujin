@@ -12,6 +12,4 @@
 *Final project of my Master’s Degree in IT and Information Systems, developed in collaboration with three other students.*
 
 ### Get in touch
-🌐 [X](https://x.com/Sozokujin_)
-
-👨‍💻 [LinkedIn](https://fr.linkedin.com/in/lcorre)
+🍱 [All my links 🚀](https://bento.me/sozokujin)
