@@ -1,5 +1,5 @@
 <h1>Hi, I'm Léo 👋</h1>
-<h3>Full-Stack Developer based in France 🇫🇷</h3>
+<h3>Full Stack Developer based in France 🇫🇷</h3>
 <p>I enjoy creating innovative web solutions and exploring new technologies.</p>
 <h4>🌟 What Drives Me</h4>
 <p>
